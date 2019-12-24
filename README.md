@@ -1,42 +1,42 @@
 # ios_roadmap
 ## ☑️ Memory manadgment  
 
-  - [X] Stack and Heap
+  - [ ] Stack and Heap
   - [X] Value vs Reference type
   - [X] ARC
   - [X] MRC
   - [X] Retain cycles
   - [X] Memory leaks
   - [X] [Autorelease pool](https://developer.apple.com/documentation/foundation/nsautoreleasepool?language=occ)
-  - [X] Shallow and deep copying
+  - [ ] Shallow and deep copying
   - [X] Weak/Strong references
 
 ## ☑️ Swift
 
 - [X] Closures
-- [X] Generic$#s
+- [X] Generics
 - [X] Initializers
 - [X] Protocols
 - [X] Struct
 - [X] Enums
-- [X] Runtime
-- [X] Method dispatch
+- [ ] Runtime
+- [ ] Method dispatch
 
 ## ☑️ Multithreading and concurency
 
 * [Concurrency vs Multi-threading vs Asynchronous Programming : Explained](https://habr.com/ru/post/337528/)
   
-- [X] [`GCD`](https://medium.com/@alexey_nenastev/всё-о-многопоточности-в-swift-часть-1-настоящее-f0b4d5718877)
-  - [X] Semaphors
+- [ ] [`GCD`](https://medium.com/@alexey_nenastev/всё-о-многопоточности-в-swift-часть-1-настоящее-f0b4d5718877)
+  - [ ] Semaphors
   - [X] DispatchGroup
-  - [X] DispatchWorkItem
-  - [X] DispatchSource
-- [X] NSOperationQueue
-- [X] Race condition
-- [X] Deadlock
-- [X] Livelock
-- [X] Readers/writers problem
-- [X] [Green threads](https://ru.wikipedia.org/wiki/Green_threads)
+  - [ ] DispatchWorkItem
+  - [ ] DispatchSource
+- [ ] NSOperationQueue
+- [ ] Race condition
+- [ ] Deadlock
+- [ ] Livelock
+- [ ] Readers/writers problem
+- [ ] [Green threads](https://ru.wikipedia.org/wiki/Green_threads)
 - [X] Runloop
 
 ## ☑️ `UIKit`
@@ -65,11 +65,11 @@
 - [X] Notifications vs Delegation vs Observing
 - [X] Collections
 - [X] Networking
-- [X] [`Serialization`]()
+- [ ] [`Serialization`]()
   - [X] NSCoding
   - [X] Codable
   - [X] JSON
-  - [X] XML
+  - [ ] XML
   
 ## ☑️ Software Architecture
 
@@ -83,50 +83,50 @@
 
 ## Design patterns (17/31)
 
-- [X] [`Creational`]()
-  - [X] Factory
-  - [X] Abstract Factory
-  - [X] Builder
+- [ ] [`Creational`]()
+  - [ ] Factory
+  - [ ] Abstract Factory
+  - [ ] Builder
   - [X] Factory Method
-  - [X] Prototype
-  - [X] Object Pool
+  - [ ] Prototype
+  - [ ] Object Pool
   - [X] Singleton
 - [ ] [`Structural`]()
-  - [X] Adapter
-  - [X] Bridge
-  - [X] Composite
-  - [X] Decorator
-  - [X] Facade
-  - [X] Flyweight
+  - [ ] Adapter
+  - [ ] Bridge
+  - [ ] Composite
+  - [ ] Decorator
+  - [ ] Facade
+  - [ ] Flyweight
   - [ ] Proxy
 - [ ] [`Behavioural`]()
-  - [X] Command
+  - [ ] Command
   - [ ] Chain of responsibility
   - [ ] Interpreter
   - [ ] Iterator
   - [ ] Mediator
   - [ ] Memento
   - [X] Observer
-  - [X] State
-  - [X] Strategy
+  - [ ] State
+  - [ ] Strategy
   - [ ] Visitor
 - [ ] [`Other`]()
   - [ ] Anti-pattern
   - [ ] Class cluster
   - [ ] Chain of Responsibility
   - [ ] Receptionist
-  - [X] Template Method
+  - [ ] Template Method
 
 ## Design principles
 
-- [ ] [`SOLID`]()
+- [X] [`SOLID`]()
   - [X] Single responsibility principle
   - [X] Open/closed principle
   - [X] Liskov substitution principle
-  - [ ] Interface segregation principle
-  - [ ] Dependency inversion principle
-- [X] Inversion of Control
-- [X] Dependency Injection
+  - [X] Interface segregation principle
+  - [X] Dependency inversion principle
+- [ ] Inversion of Control
+- [ ] Dependency Injection
 - [X] Dry (don't repeat yourself)
 - [X] KISS (keep it simple, stupid)
 
@@ -137,12 +137,12 @@
 
 - [X] Cocoapods
 - [X] Carthage
-- [X] Swift Package Manager
+- [ ] Swift Package Manager
 
 ## ☑️ Version Control System
 
 - [X] git
-- [X] SVN
+- [ ] SVN
 
 ## Caching and Presistency (2/4)
 
@@ -153,11 +153,11 @@
 
 ## Testing (3/5)
 
-- [X] Unit Tests
+- [ ] Unit Tests
 - [ ] Snapshot Tests
 - [ ] Functional test
-- [X] TDD
-- [X] BDD
+- [ ] TDD
+- [ ] BDD
 
 ## XCode/Tools/Debbuging (7/11)
 
@@ -168,7 +168,7 @@
 - [X] UI Debbuging
 - [X] Reveal for UI Debuggin
 - [X] Instruments: Leaks
-- [X] Instruments: Time profiler
+- [ ] Instruments: Time profiler
 - [X] Instruments: Allocations
 - [ ] Zombies
 - [ ] Activity monitor  
@@ -222,7 +222,7 @@
 - [X] ObjectMapper (pod)
 - [X] Charts (pod)
 - [X] Payments and subscription
-- [X] Moya
+- [ ] Moya
 - [ ] BLE (Bluetooth Low Energy)
 - [ ] AVFoundation
 - [ ] AVKit
@@ -304,20 +304,20 @@
 - [ ] [NSOperation](http://nshipster.com/nsoperation/)
 - [ ] [performSelector may cause a leak because its selector is unknown](https://stackoverflow.com/questions/7017281/performselector-may-cause-a-leak-because-its-selector-is-unknown)
 - [ ] [Alternatives to performSelector](http://codeshaker.blogspot.co.uk/2012/05/alternatives-to-performselector.html)
-- [X] [Wiki: Readers–writers problem](https://en.wikipedia.org/wiki/Readers%E2%80%93writers_problem)
-- [X] [Dispatch Barriers in Swift 3](https://medium.com/@oyalhi/dispatch-barriers-in-swift-3-6c4a295215d6)
-- [X] [Run Loops](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html)
+- [ ] [Wiki: Readers–writers problem](https://en.wikipedia.org/wiki/Readers%E2%80%93writers_problem)
+- [ ] [Dispatch Barriers in Swift 3](https://medium.com/@oyalhi/dispatch-barriers-in-swift-3-6c4a295215d6)
+- [ ] [Run Loops](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html)
 - [ ] [Synchronization](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/Multithreading/ThreadSafety/ThreadSafety.html)
 - [ ] [Dependency Injection](https://www.objc.io/issues/15-testing/dependency-injection/)
 - [ ] [Protocol Oriented Programming in Swift: An Introduction](https://www.appcoda.com/protocol-oriented-programming/)
 - [ ] [Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/play/wwdc2015/408/)
 - [ ] [Basic iOS Security: Keychain and Hashing](https://www.raywenderlich.com/185370/basic-ios-security-keychain-hashing)
-- [X] [The Three Laws of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
-- [X] [Behavior-Driven Testing Tutorial for iOS with Quick & Nimble](https://www.raywenderlich.com/182118/behavior-driven-testing-tutorial-ios-quick-nimble)
+- [ ] [The Three Laws of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+- [ ] [Behavior-Driven Testing Tutorial for iOS with Quick & Nimble](https://www.raywenderlich.com/182118/behavior-driven-testing-tutorial-ios-quick-nimble)
 - [ ] [iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial)
 - [ ] [Singleton, Service Locator and tests in iOS](https://badootech.badoo.com/singleton-service-locator-and-tests-in-ios-d69484e88944)
 - [ ] [Unit testing asynchronous Swift code](https://www.swiftbysundell.com/posts/unit-testing-asynchronous-swift-code)
-- [X] [iOS User Interfaces: Storyboards vs. NIBs vs. Custom Code](https://www.toptal.com/ios/ios-user-interfaces-storyboards-vs-nibs-vs-custom-code)
+- [ ] [iOS User Interfaces: Storyboards vs. NIBs vs. Custom Code](https://www.toptal.com/ios/ios-user-interfaces-storyboards-vs-nibs-vs-custom-code)
 - [ ] [Focus-Driven Interfaces with UIKit](https://developer.apple.com/videos/play/techtalks-apple-tv/3/)
 - [ ] [The App Life Cycle](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/TheAppLifeCycle/TheAppLifeCycle.html)
 - [ ] [UIApplicationDelegate](https://developer.apple.com/documentation/uikit/uiapplicationdelegate)
@@ -342,7 +342,7 @@
 - [ ] [UIKit Framework](https://developer.apple.com/documentation/uikit)
 - [ ] [How to make friends with UIKit](https://badootech.badoo.com/how-to-make-friends-with-uikit-934ea431ffef)
 - [ ] [UIKit fundamentals](https://eg.udacity.com/course/uikit-fundamentals--ud788)
-- [X] [Pro Git](https://git-scm.com/book/en/v2)
+- [ ] [Pro Git](https://git-scm.com/book/en/v2)
 - [ ] [Friday Q&A 2015-12-11: Swift Weak References](https://www.mikeash.com/pyblog/friday-qa-2015-12-11-swift-weak-references.html)
 - [X] [Beginning ARC in iOS 5 Tutorial Part 1](https://www.raywenderlich.com/5677/beginning-arc-in-ios-5-part-1)
 - [X] [Swift’s ARC and Memory Leaks](https://medium.com/ios-seminar/swifts-arc-and-memory-leaks-1a227cae55da)
@@ -385,57 +385,6 @@
 - [X] [Structures in Swift](https://medium.com/swift-india/part1-struct-2d585269b121)
 - [X] [Copy-On-Write](https://dzone.com/articles/use-copy-on-write-with-swift-value-types-1)
 - [X] [GCD](https://medium.com/@alexey_nenastev/всё-о-многопоточности-в-swift-часть-1-настоящее-f0b4d5718877)
-
-## Appendix
-
-- [ ] HTTP timeouts
-- [X] Когда удаляются autorelease объекты
-- [ ] Unsafe Swift
-- [ ] Лицензирование (Licenses)
-- [ ] SSH
-- [ ] Increase FPS
-- [ ] Decrease memory footprint
-- [ ] Protobuf
-- [ ] Work in background mode
-- [ ] [Learning Path: RxSwift from Start to Finish](https://academy.realm.io/posts/learning-path-rxswift-from-start-to-finish/)
-- [ ] [fastlane Tutorial: Getting Started](https://www.raywenderlich.com/136168/fastlane-tutorial-getting-started-2)
-- [ ] [Fastlane](https://fastlane.tools)
-- [ ] [Objective-C Runtime Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html)
-- [ ] [Obj-Runtime](https://m.habr.com/ru/post/177421)
-- [ ] [How Objective-C messaging works](http://dantoml.com/how-objective-c-messaging-works/)
-- [ ] [Friday Q&A 2013-02-08: Let's Build Key-Value Coding](https://www.mikeash.com/pyblog/friday-qa-2013-02-08-lets-build-key-value-coding.html)
-- [ ] [Friday Q&A 2009-08-14: Practical Blocks](https://www.mikeash.com/pyblog/friday-qa-2009-08-14-practical-blocks.html)
-- [ ] [How blocks are implemented (and the consequences)](https://www.cocoawithlove.com/2009/10/how-blocks-are-implemented-and.html)
-- [ ] generate a unique ID for each URL?
-- [ ] How would you generate unique IDs at scale (thousands of URL shortening requests coming every second)?
-- [ ] How would your service handle redirects?
-- [ ] How would you support custom short URLs?
-- [ ] How to delete expired URLs etc?
-- [ ] How to track click stats?
-- [ ] How would you record stats about videos e.g the total number of views, up-votes/down-votes, etc.
-- [ ] How would a user add comments on videos (in realtime)
-- [ ] How would you design one-on-one conversations between users?
-- [ ] How would you extend your design to support group chats?
-- [ ] What to do when the user is not connected to the internet?
-- [ ] When to send push notifications?
-- [ ] Can you provide end-to-end encryption. How?
-- [ ] Records stats for each answer e.g. the total number of views, upvotes/downvotes, etc.
-- [ ] Users should be able to follow other users or topics
-- [ ] Their timeline will consist of top questions from all the users and topics they follow (similar to newsfeed generation).
-- [ ] How would users be able to upload/view/search/share files or photos?
-- [ ] How would you track persmissions for file sharing
-- [ ] How would you allow multiple users to edit the same document
-- [ ] Efficient storage and search for posts or tweets.
-- [ ] Newsfeed generation
-- [ ] Social Graph (who befriends whom or who follows whom — specially when millions of users are following a celebrity)
-- [ ] The most critical use case — when a customer requests a ride and how to efficiently match them with the nearby drivers?
-- [ ] How to store millions of geographical locations for drivers and riders who are always moving.
-- [ ] How to handle updates to driver/rider locations (millions of updates every second)?
-- [ ] How to store previous search queries?
-- [ ] How to keep the data fresh?
-- [ ] How to find the best matches to the already typed string?
-- [ ] How to handle updates and the user is typing too fast?
-
 
 
 <br><br>
