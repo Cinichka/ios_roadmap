@@ -382,6 +382,5 @@
 - [ ] [Copy-On-Write](https://dzone.com/articles/use-copy-on-write-with-swift-value-types-1)
 - [ ] [GCD](https://medium.com/@alexey_nenastev/всё-о-многопоточности-в-swift-часть-1-настоящее-f0b4d5718877)
 
-![Skills matrix](matrix.png)
-
 <br><br>
+![Skills matrix](matrix.png)
