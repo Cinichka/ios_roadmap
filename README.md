@@ -163,7 +163,7 @@
 
 - [ ] Workspace/cocoapods
 - [X] Interface Builder
-- [X] Keychain
+- [ ] Keychain
 - [ ] Security Transforms API
 - [X] UI Debbuging
 - [X] Reveal for UI Debuggin
@@ -203,7 +203,7 @@
   - [ ] Set
   - [ ] Multiset (Bag)
   - [ ] Graph -> Tree
-  - [X] Queue
+  - [ ] Queue
   - [ ] Priority Queue
   - [ ] Double-ended priority queue
   - [ ] Double-ended queue
@@ -219,14 +219,14 @@
 
 ## Libs, frameworks, pods, Kit's
 
-- [X] ObjectMapper (pod)
-- [X] Charts (pod)
-- [X] Payments and subscription
+- [ ] ObjectMapper (pod)
+- [ ] Charts (pod)
+- [ ] Payments and subscription
 - [ ] Moya
 - [ ] BLE (Bluetooth Low Energy)
 - [ ] AVFoundation
 - [ ] AVKit
-- [ ] ARKit
+- [X] ARKit
 - [ ] HomeKit
 - [ ] MedKit
 - [ ] MapKit
@@ -246,10 +246,6 @@
 
 ## Books 
 
-- [ ] [`Ray Wenderlich`]()
-  - [ ] RxSwift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◼◼◼◽◽◽◽◽◽◽ 33%
-  - [ ] Animations&nbsp;◼◽◽◽◽◽◽◽◽◽ 14%
-- [X] Jon Hoffman. Swift 4. Protocol-oriented Programming
 
 ## ☑️ Course and tutorials
 
@@ -258,38 +254,38 @@
 
 ## Articles (43/127)
 
-- [X] [Try to catch Zombie](https://oxozle.com/2016/01/25/lovim-zombi-obuekty-v-ios-xcode-ili-kak-reshat-message-sent-to-deallocated-instance/)
+- [ ] [Try to catch Zombie](https://oxozle.com/2016/01/25/lovim-zombi-obuekty-v-ios-xcode-ili-kak-reshat-message-sent-to-deallocated-instance/)
 - [ ] [Apple Human Interface Guideline](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/loading/)
-- [X] [Structs and class](https://medium.com/commencis/stop-using-structs-e1be9a86376f)
+- [ ] [Structs and class](https://medium.com/commencis/stop-using-structs-e1be9a86376f)
 - [ ] [Design patterns](https://refactoring.guru/ru/design-patterns/prototype)
-- [X] [Swift styleguide](https://github.com/Torlopov-Andrey/swift-style-guide)
-- [X] [@AUTORELEASEPOOL](http://en.swifter.tips/autoreleasepool/)
-- [X] [Runloop](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html)
+- [ ] [Swift styleguide](https://github.com/Torlopov-Andrey/swift-style-guide)
+- [ ] [@AUTORELEASEPOOL](http://en.swifter.tips/autoreleasepool/)
+- [ ] [Runloop](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html)
 - [X] Blocks
 - [X] Runtime
-- [X] KVC
-- [X] KVO
-- [X] NSZombies and KVO implementation
-- [X] Swizzling
-- [X] [Method Swizzling](http://nshipster.com/method-swizzling/)
-- [X] [KVO Implementation Official Documentation](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/Articles/KVOImplementation.html)
-- [X] [KVO Implementation Analysis By MikeAsh](https://www.mikeash.com/pyblog/friday-qa-2009-01-23.html)
-- [X] [Introduction to Key-Value Observing Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html)
-- [X] [Key-Value Observing](http://nshipster.com/key-value-observing/)
-- [X] [About Key-Value Coding](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueCoding/index.html)
-- [X] [The Swift Programming Language: Closures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Closures.html)
-- [X] [The Swift Programming Language: Enumerations](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html)
-- [X] [Generics in Swift 4](https://medium.com/developermind/generics-in-swift-4-4f802cd6f53c)
-- [X] [Swift Generics Tutorial: Getting Started](https://www.raywenderlich.com/154371/swift-generics-tutorial-getting-started)
-- [X] [The Swift Programming Language: Generics](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Generics.html)
-- [X] [Initialization In Depth, Part 1/2](https://www.raywenderlich.com/119922/swift-tutorial-initialization-part-1)
-- [X] [Initialization In Depth, Part 2/2](https://www.raywenderlich.com/121603/swift-tutorial-initialization-part-2)
-- [X] [Method Dispatch in Swift](https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/)
-- [X] [Separation of concerns using protocols in Swift](https://www.swiftbysundell.com/posts/separation-of-concerns-using-protocols-in-swift)
-- [X] [Swift Optional Protocol Methods](https://useyourloaf.com/blog/swift-optional-protocol-methods/)
-- [X] [The Swift Programming Language: Protocols](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html)
-- [X] [How does iOS Swift Runtime work](https://stackoverflow.com/questions/37315295/how-does-ios-swift-runtime-work)
-- [X] [The Swift Programming Language: Classes and Structures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html)
+- [ ] KVC
+- [ ] KVO
+- [ ] NSZombies and KVO implementation
+- [ ] Swizzling
+- [ ] [Method Swizzling](http://nshipster.com/method-swizzling/)
+- [ ] [KVO Implementation Official Documentation](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/Articles/KVOImplementation.html)
+- [ ] [KVO Implementation Analysis By MikeAsh](https://www.mikeash.com/pyblog/friday-qa-2009-01-23.html)
+- [ ] [Introduction to Key-Value Observing Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html)
+- [ ] [Key-Value Observing](http://nshipster.com/key-value-observing/)
+- [ ] [About Key-Value Coding](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueCoding/index.html)
+- [ ] [The Swift Programming Language: Closures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Closures.html)
+- [ ] [The Swift Programming Language: Enumerations](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html)
+- [ ] [Generics in Swift 4](https://medium.com/developermind/generics-in-swift-4-4f802cd6f53c)
+- [ ] [Swift Generics Tutorial: Getting Started](https://www.raywenderlich.com/154371/swift-generics-tutorial-getting-started)
+- [ ] [The Swift Programming Language: Generics](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Generics.html)
+- [ ] [Initialization In Depth, Part 1/2](https://www.raywenderlich.com/119922/swift-tutorial-initialization-part-1)
+- [ ] [Initialization In Depth, Part 2/2](https://www.raywenderlich.com/121603/swift-tutorial-initialization-part-2)
+- [ ] [Method Dispatch in Swift](https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/)
+- [ ] [Separation of concerns using protocols in Swift](https://www.swiftbysundell.com/posts/separation-of-concerns-using-protocols-in-swift)
+- [ ] [Swift Optional Protocol Methods](https://useyourloaf.com/blog/swift-optional-protocol-methods/)
+- [ ] [The Swift Programming Language: Protocols](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html)
+- [ ] [How does iOS Swift Runtime work](https://stackoverflow.com/questions/37315295/how-does-ios-swift-runtime-work)
+- [ ] [The Swift Programming Language: Classes and Structures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html)
 - [X] [The Foundation Collection Classes](https://www.objc.io/issues/7-foundation/collections/)
 - [ ] [A Crash Course on Networking in iOS](https://www.sitepoint.com/a-crash-course-on-networking-in-ios/)
 - [ ] >> [WHEN TO USE DELEGATION, NOTIFICATION, OR OBSERVATION IN IOS](https://shinesolutions.com/2011/06/14/delegation-notification-and-observation/)
@@ -344,11 +340,11 @@
 - [ ] [UIKit fundamentals](https://eg.udacity.com/course/uikit-fundamentals--ud788)
 - [ ] [Pro Git](https://git-scm.com/book/en/v2)
 - [ ] [Friday Q&A 2015-12-11: Swift Weak References](https://www.mikeash.com/pyblog/friday-qa-2015-12-11-swift-weak-references.html)
-- [X] [Beginning ARC in iOS 5 Tutorial Part 1](https://www.raywenderlich.com/5677/beginning-arc-in-ios-5-part-1)
-- [X] [Swift’s ARC and Memory Leaks](https://medium.com/ios-seminar/swifts-arc-and-memory-leaks-1a227cae55da)
-- [X] [Memory Management Tutorial for iOS](https://www.raywenderlich.com/2657/memory-management-tutorial-for-ios)
-- [X] [Retain Cycles, Weak and Unowned in Swift](http://www.thomashanning.com/retain-cycles-weak-unowned-swift/)
-- [X] [Object copying](https://developer.apple.com/library/content/documentation/CoreFoundation/Conceptual/CFMemoryMgmt/Concepts/CopyFunctions.html)
+- [ ] [Beginning ARC in iOS 5 Tutorial Part 1](https://www.raywenderlich.com/5677/beginning-arc-in-ios-5-part-1)
+- [ ] [Swift’s ARC and Memory Leaks](https://medium.com/ios-seminar/swifts-arc-and-memory-leaks-1a227cae55da)
+- [ ] [Memory Management Tutorial for iOS](https://www.raywenderlich.com/2657/memory-management-tutorial-for-ios)
+- [ ] [Retain Cycles, Weak and Unowned in Swift](http://www.thomashanning.com/retain-cycles-weak-unowned-swift/)
+- [ ] [Object copying](https://developer.apple.com/library/content/documentation/CoreFoundation/Conceptual/CFMemoryMgmt/Concepts/CopyFunctions.html)
 - [ ] [Stack and Heap Objects in Objective-C](https://www.mikeash.com/pyblog/friday-qa-2010-01-15-stack-and-heap-objects-in-objective-c.html)
 - [ ] [Stack vs Heap](https://tproger.ru/translations/programming-concepts-stack-and-heap/)
 - [ ] [Articles #2](http://microsin.net/programming/pc/dot-net-stack-heap-value-reference-boxing-unboxing.html)
@@ -379,12 +375,12 @@
 - [ ] [Background Modes Tutorial: Getting Started](https://www.raywenderlich.com/143128/background-modes-tutorial-getting-started)
 - [ ] [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation)
 - [ ] [Swift Algorithm Club: Boyer Moore String Search Algorithm](https://www.raywenderlich.com/163964/swift-algorithm-club-booyer-moore-string-search-algorithm)
-- [X] [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
+- [ ] [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
 - [ ] [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
 - [ ] [Interactive diagrams of Rx Observables](http://rxmarbles.com)
-- [X] [Structures in Swift](https://medium.com/swift-india/part1-struct-2d585269b121)
-- [X] [Copy-On-Write](https://dzone.com/articles/use-copy-on-write-with-swift-value-types-1)
-- [X] [GCD](https://medium.com/@alexey_nenastev/всё-о-многопоточности-в-swift-часть-1-настоящее-f0b4d5718877)
+- [ ] [Structures in Swift](https://medium.com/swift-india/part1-struct-2d585269b121)
+- [ ] [Copy-On-Write](https://dzone.com/articles/use-copy-on-write-with-swift-value-types-1)
+- [ ] [GCD](https://medium.com/@alexey_nenastev/всё-о-многопоточности-в-swift-часть-1-настоящее-f0b4d5718877)
 
 
 <br><br>
