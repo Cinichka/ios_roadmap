@@ -244,7 +244,7 @@
   - [ ] OCMock
 
 <br><br>
-(Certificate_138.jpg)
+![Certificate](Certificate_138.jpg)
 
 ## Books 
 
