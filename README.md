@@ -212,10 +212,10 @@
 
   - [X] Protocol-Oriented 
   - [X] OOP
-  - [ ] Functional
+  - [X] Functional
   - [ ] React Native
-  - [ ] RxSwift
-  - [ ] RxRealm, RxDataSources
+  - [X] RxSwift
+  - [X] RxRealm, RxDataSources
 
 ## Libs, frameworks, pods, Kit's
 
